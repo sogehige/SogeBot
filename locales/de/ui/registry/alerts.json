@@ -119,7 +119,7 @@
   "ttsTemplate": {
     "name": "TTS Vorlage",
     "placeholder": "TTS-Vorlage festlegen",
-    "help": "Verfügbare Variablen: {{name}}, {{amount}} {{monthsName}} {{currency}} {{message}}"
+    "help": "Available variables: {{name}}, {{amount}} {{monthsName}} {{currency}} {{message}}"
   },
   "animationText": {
     "name": "Animationstext"

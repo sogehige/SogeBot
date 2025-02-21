@@ -119,7 +119,7 @@
   "ttsTemplate": {
     "name": "TTS šablona",
     "placeholder": "Nastavte si šablonu TTS",
-    "help": "Dostupné proměnné: {{name}}, {{amount}} {{monthsName}} {{currency}} {{message}}"
+    "help": "Available variables: {{name}}, {{amount}} {{monthsName}} {{currency}} {{message}}"
   },
   "animationText": {
     "name": "Animace textu"
