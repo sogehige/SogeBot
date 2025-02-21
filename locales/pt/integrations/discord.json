@@ -4,10 +4,10 @@
   "all-your-links-were-deleted-with-sender": "$sender, {integrations.discord.all-your-links-were-deleted}",
   "this-account-was-linked-with": "$sender, sua conta foi vinculada com $discordTag.",
   "invalid-or-expired-token": "$sender, token inválido ou expirado.",
-  "help-message": "$sender, to link your account on Discord: 1. Go to Discord server and send $command in bot channel. | 2. Wait for PM from bot | 3. Send command from your Discord PM here in Twitch chat.",
+  "help-message": "$sender, para vincular sua conta no Discord: 1. Vá ao servidor Discord server e envie $command no canal de bot. | 2. Aguarde a MP do bot | 3. Envie o comando de sua MP do Discord aqui no chat da Twitch.",
   "started-at": "Iniciou em",
   "announced-by": "Anunciado por sogeBot",
   "streamed-at": "Transmitido em",
   "link-whisper": "Olá $tag, para vincular sua conta no Discord com sua conta da Twitch no canal $broadcaster, acesse <https://twitch.tv/$broadcaster>, faça o login na sua conta e envie este comando no chat \n\n\t\t`$command $id`\n\nOBS: expira em 10 minutos.",
-  "check-your-dm": "check your PMs for steps to link your account."
+  "check-your-dm": "verifique seu privado para vincular sua conta."
 }

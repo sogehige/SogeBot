@@ -119,7 +119,7 @@
   "ttsTemplate": {
     "name": "Modelos TTS",
     "placeholder": "Defina seu modelo de TTS",
-    "help": "Variáveis disponíveis: {{name}}, {{amount}} {{monthsName}} {{currency}} {{message}}"
+    "help": "Available variables: {{name}}, {{amount}} {{monthsName}} {{currency}} {{message}}"
   },
   "animationText": {
     "name": "Texto de animação"

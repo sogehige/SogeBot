@@ -114,12 +114,12 @@
   "messageTemplate": {
     "name": "Meldingsmal",
     "placeholder": "Angi din meldingsmal",
-    "help": "Tilgjengelige variabler: {{name}}, {{amount}} (cheers, abonnement, tips, abonnementsgaver, abonnementsgaver til fellesskapet, innløste kommandoer), {{recipient}} (abonnementsgaver, innløste kommandoer), {{monthsName}} (abonnement, abonnementsgaver), {{tier}} (abonnement), {{currency}} (tips), {{game}} (promo). Hvis | legges til (se promo) så vil de verdiene vises i rekkefølge."
+    "help": "Available variables: {{name}}, {{amount}} (cheers, subs, tips, subgifts, sub community gifts, command redeems), {{recipient}} (subgifts, command redeems), {{monthsName}} (subs, subgifts), {{tier}} (subs), {{currency}} (tips), {{game}} (promo). If | is added (see promo) then it will show those values in sequence."
   },
   "ttsTemplate": {
     "name": "TTS mal",
     "placeholder": "Angi din TTS mal",
-    "help": "Tilgjengelige variabler: {{name}}, {{amount}} {{monthsName}} {{currency}} {{message}}"
+    "help": "Available variables: {{name}}, {{amount}} {{monthsName}} {{currency}} {{message}}"
   },
   "animationText": {
     "name": "Animasjonstekst"
